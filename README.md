@@ -25,3 +25,6 @@ Well, I do have [more for you][Jen's GitHub website]
 
 [Jen's GitHub]: https://github.com/Jennifer7793
 [Jen's GitHub website]: jennifer7793.github.io
+
+Images
+![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
