@@ -17,7 +17,7 @@ add emphasis to link texts [You're **really, really** going to want to see this.
 Links with heading
 #### [Jenjen's GitHub](https://github.com/Jennifer7793)
 
-use ( [A] ) + ( [B] ), behind one (B) won't shows up
+use ( [A] ) + ( [B] ), behind one [B] won't shows up
 then ( [B]: url )
 
 Do you want to see [something about Jen][Jen's GitHub]
@@ -27,9 +27,12 @@ Well, I do have [more for you][Jen's GitHub website]
 [Jen's GitHub website]: jennifer7793.github.io
 
 Images
+use ( ! )( [A] )( (hyperlinks) )
 ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
 Reference link
+use ( ! )( [A] )( [B] ), [B] won't show up
+then( [B]: url )
 ![Black cat][Black]
 ![Orange cat][Orange]
 
