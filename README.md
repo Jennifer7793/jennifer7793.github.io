@@ -42,3 +42,9 @@ then( [B]: url )
 Blockquotes
 use ( > ) to quote the sentence or paragraph
 > "Just continuous learning and non stop. You can do it, Jennifer!"
+
+Unorder list
+use ( * )
+
+Order list
+use ( 1. ) ( 2. )...
