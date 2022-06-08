@@ -48,3 +48,10 @@ use ( * )
 
 Order list
 use ( 1. ) ( 2. )...
+
+nest list
+use ( * ) and next line to indent one space than the preceding item.
+* Jennifer Lin
+ *female
+ *Sep 3rd
+ *Learning markdown
